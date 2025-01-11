@@ -378,13 +378,13 @@ a:focus {
 
 .slider_section .detail-box .btn-box .btn-2 {
   display: inline-block;
-  padding: 20px 35px;
+  padding: 10px 35px;
   background-color: #ffffff;
   color: #000000;
   -webkit-transition: all 0.3s;
   transition: all 0.3s;
   border: 1px solid transparent;
-  font-size: 20px;
+  font-size: 18px;
 }
 
 .slider_section .detail-box .btn-box .btn-2:hover {
@@ -450,7 +450,7 @@ a:focus {
 }
 
 .about_section .detail-box p {
-  margin-top: 5px;
+  margin-top: 25px;
 }
 
 .about_section .detail-box a {
@@ -545,6 +545,7 @@ a:focus {
 
 .client_section .box .img-box {
   width: 145px;
+  height: 220px;
 }
 
 .client_section .box .img-box img {
